@@ -1,0 +1,17 @@
+There are 754 uniquie hashtags
+
+Hashtag: "#bullying"
+Frequency: 109
+
+Hashtag: "#bully"
+Frequency: 40
+
+Hashtag: "#itreallymakesmemad"
+Frequency: 30
+
+Hashtag: "#stopbullying"
+Frequency: 20
+
+Hashtag: "#moms"
+Frequency: 15
+
